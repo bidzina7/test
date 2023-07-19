@@ -1,0 +1,71 @@
+@import url('https://fonts.cdnfonts.com/css/sylfaen');
+
+* {font-family: 'Sylfaen';}
+.print_div {
+	/*//background:#ddd;*/}
+
+.a_div {
+	/* background:#eee; */
+	color:#F03;
+	font-style:italic;
+	font-size:18px;
+	font-weight:bold;
+	text-align:center;
+	padding-top:11px;
+	padding-bottom:13px;
+	border-bottom:1px solid #ddd;}
+
+.a1_div {
+	/* background:#f9f9f9; */
+	text-align:center;
+	font-size:13px;
+	padding-top:5px;
+	padding-bottom:7px;
+	border-bottom:1px solid #ddd;
+	width:35%;}
+
+.a2_div {
+	/* background:#fff; */
+	color:#19A4D2;
+	text-align:center;
+	font-style:italic;
+	font-size:15px;
+	padding-top:5px;
+	padding-bottom:7px;
+	border-bottom:1px solid #ddd;}
+	
+.a2_div_left {
+	/* background:#fff; */
+	color:#19A4D2;
+	text-align:left;
+	font-style:italic;
+	font-size:15px;
+	padding-top:5px;
+	padding-bottom:7px;
+	border-bottom:1px solid #ddd;}	
+	
+.a2_div_par {
+	/* background:#fff; */
+	color:#19A4D2;
+	text-align:left;
+	font-style:italic;
+	font-size:15px;
+	padding-top:5px;
+	padding-bottom:7px;
+	border-bottom:1px solid #ddd;}	
+
+.a3_div {
+	/* background:#eee; */
+	font-size:13px;
+	text-align:center;
+	padding-top:11px;
+	padding-bottom:13px;}
+
+.a4_div {
+	/* background:#f9f9f9; */
+	text-align:center;	
+	color:#19A4D2;
+	font-size:13px;
+	padding-top:5px;
+	padding-bottom:7px;
+	border-bottom:1px solid #ddd;}

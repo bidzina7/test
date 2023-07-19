@@ -1,0 +1,57 @@
+.header a:link{
+	text-decoration:none;
+	color:#f9f9f9;}
+
+.header a:active{
+	text-decoration:none;
+	color:#f9f9f9;}
+
+.header a:hover{
+	text-decoration:none;
+	color:#f9f9f9;}
+
+.header a:visited{
+	text-decoration:none;
+	color:#f9f9f9;}
+
+.footer a:link{
+	text-decoration:none;
+	color:#f9f9f9;}
+
+.footer a:active{
+	text-decoration:none;
+	color:#f9f9f9;}
+
+.footer a:hover{
+	text-decoration:none;
+	color:#f9f9f9;}
+
+.footer a:visited{
+	text-decoration:none;
+	color:#f9f9f9;}
+
+.content_div1 a:hover {
+	text-decoration:none;}
+
+.content_div1 a:link {
+	text-decoration:none;}
+
+.content_div1 a:active {
+	text-decoration:none;}
+
+.content_div1 a:visited {
+	text-decoration:none;}
+
+.link_div a:link {
+	text-decoration:underline;
+	color:#19A4D2;}
+
+.link_div a:active {
+	text-decoration:none;}
+
+.link_div a:visited {
+	text-decoration:none;
+	color:#19A4D2;}
+
+.link_div a:hover {
+	text-decoration:none;}
